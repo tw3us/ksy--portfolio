@@ -128,7 +128,7 @@ header {width: 1400px; height: 80px; margin: 0 auto;
             
             
 #visual .playbtn {position: absolute;
-            left: 20%; top: 50%; transform: translate(-50%, -50%); border: 10px solid red;
+            left: 20%; top: 50%; transform: translate(-50%, -50%);
             width: 300px; height: 150px;} /* top,bottom,left,right의 경우 position을 준 경우만 사용가능 */
         /* position 설정 후 위치 설정 시, 위의 방향 설정은 브라우저 기준으로 transform: translate(x, y)를 활용한다. */
         /* transform: translate(x, y)는 객체 기준 설정
